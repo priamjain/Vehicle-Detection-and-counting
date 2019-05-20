@@ -1,6 +1,7 @@
 # Highway Vehicle Counting Using Tensorflow<br />
 Model will Automatically be downloaded you can also choose your own tensorflow model<br />
 We are using Model trained on Coco DataSet<br />
+Put the Code file in **Model/research** Folder
 Download TensorFlow and TensorFlow GPU you can use pip or conda commands:
 ## For CPU
 `pip install tensorflow `
